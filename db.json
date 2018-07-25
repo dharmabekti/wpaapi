@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Indian peacock","category":"Orange"},
+{"id":2,"name":"Turkey, wild","category":"Violet"},
+{"id":3,"name":"Scottish highland cow","category":"Orange"},
+{"id":4,"name":"Leadbeateri's ground hornbill","category":"Turquoise"},
+{"id":5,"name":"Buffalo, wild water","category":"Goldenrod"},
+{"id":6,"name":"Eastern fox squirrel","category":"Khaki"},
+{"id":7,"name":"Brazilian otter","category":"Teal"},
+{"id":8,"name":"Alligator, american","category":"Crimson"},
+{"id":9,"name":"Common boubou shrike","category":"Yellow"},
+{"id":10,"name":"Caracara (unidentified)","category":"Yellow"},
+{"id":11,"name":"Gazer, sun","category":"Goldenrod"},
+{"id":12,"name":"Impala","category":"Aquamarine"},
+{"id":13,"name":"Lion, galapagos sea","category":"Indigo"},
+{"id":14,"name":"Violet-eared waxbill","category":"Khaki"},
+{"id":15,"name":"Madagascar fruit bat","category":"Yellow"},
+{"id":16,"name":"Rhea, gray","category":"Red"},
+{"id":17,"name":"Egret, great","category":"Crimson"},
+{"id":18,"name":"Paradoxure","category":"Aquamarine"},
+{"id":19,"name":"Tarantula","category":"Orange"},
+{"id":20,"name":"Common pheasant","category":"Purple"}
+]
+}
